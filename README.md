@@ -1,2 +1,20 @@
 # TwitterAnalyzer
-A tweet analyzer capable of performing a wide range of tasks such as identification, crawling, sentiment analysis, co-occurrence analisys, web scaping, predictions.
+A tweet analyzer capable of performing a wide range of tasks such as identification, crawling, sentiment analysis, co-occurrence analysis, web scraping, prediction.
+
+## Identification
+Analyzes a dataset of gzip files and identifies tweets that contain one or more mentions in different formats (mention, replies, simple occurrences). 
+<img src="screenshot/.png?raw=true" width="100"/>
+
+## Crawling
+Crawls Twitter users' friendship relations and build a graph. It also calculates the pagerank of the nodes and determines the largest connected component.
+<img src="screenshot/.png?raw=true" width="100"/>
+
+## Sentiment Analysis
+
+## Co-Occurrence Analysis
+
+## Web Scraping
+
+## Prediction
+
+# Configuration
