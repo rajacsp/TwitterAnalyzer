@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crawlers>
+	<twitter id="1">
+		<access_token>
+		</access_token>
+		<access_token_secret>
+		</access_token_secret>
+		<consumer_key></consumer_key>
+		<consumer_secret>
+		</consumer_secret>
+	</twitter>
+</crawlers>

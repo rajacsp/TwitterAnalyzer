@@ -1,0 +1,4 @@
+Donald Trump	republican
+John Kasich	republican
+Bernie Sanders	democrat
+Hillary Clinton	democrat
