@@ -17,7 +17,9 @@ In this task users are partitioned according to the mentions and some measures a
 <img src="screen/partitioning.png?raw=true" width="600"/>
 
 ## Sentiment Analysis
-This task 
+Users are classified into supporters, opponents and neutral. 
+<img src="screen/sentiment.png?raw=true" width="200"/>
+
 ## Co-Occurrence Analysis
 
 ## Web Scraping
