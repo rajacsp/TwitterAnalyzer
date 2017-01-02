@@ -18,7 +18,8 @@ In this task users are partitioned according to the mentions and some measures a
 
 ## Sentiment Analysis
 Users are classified into supporters, opponents and neutral. 
-<img src="screen/sentiment.png?raw=true" width="200"/>
+
+<img src="screen/sentiment.png?raw=true" width="100"/>
 
 ## Co-Occurrence Analysis
 
