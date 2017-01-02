@@ -14,7 +14,7 @@ This task crawls Twitter users' friendship relations and build a graph. It also 
 ## Partitioning
 In this task users are partitioned according to the mentions and some measures are calculated. Common examples of measures are frequency, influence, pagerank, closeness centrality.
 
-<img src="screen/partitioning.png?raw=true" width="150"/>
+<img src="screen/partitioning.png?raw=true" width="300"/>
 
 ## Sentiment Analysis
 This task 
