@@ -9,12 +9,12 @@ This task analyzes a dataset of gzip files and identifies tweets that contain on
 ## Crawling
 This task crawls Twitter users' friendship relations and build a graph. It also calculates the pagerank of the nodes and determines the largest connected component.
 
-<img src="screen/crawling.png?raw=true" width="150"/>
+<img src="screen/crawling.png?raw=true" width="200"/>
 
 ## Partitioning
 In this task users are partitioned according to the mentions and some measures are calculated. Common examples of measures are frequency, influence, pagerank, closeness centrality.
 
-<img src="screen/partitioning.png?raw=true" width="500"/>
+<img src="screen/partitioning.png?raw=true" width="600"/>
 
 ## Sentiment Analysis
 This task 
