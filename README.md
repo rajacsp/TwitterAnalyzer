@@ -9,7 +9,7 @@ Analyzes a dataset of gzip files and identifies tweets that contain one or more 
 ## Crawling
 Crawls Twitter users' friendship relations and build a graph. It also calculates the pagerank of the nodes and determines the largest connected component.
 
-<img src="screen/crawling.png?raw=true" width="100"/>
+<img src="screen/crawling.png?raw=true" width="150"/>
 
 ## Sentiment Analysis
 
