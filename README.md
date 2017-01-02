@@ -27,4 +27,6 @@ Users are classified into supporters, opponents and neutral.
 
 ## Prediction
 
+<img src="screen/prediction.png?raw=true" width="600"/>
+
 # Configuration
