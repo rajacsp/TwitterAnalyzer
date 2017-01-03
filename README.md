@@ -17,7 +17,12 @@ In this task users are partitioned according to the mentions and some measures a
 <img src="screen/partitioning.png?raw=true" width="600"/>
 
 ## Sentiment Analysis
-Users are classified into supporters, opponents and neutral according to the sentiment expressed in their tweets.
+Users are classified into supporters, opponents and neutral according to the sentiment expressed in their tweets. The analysis consists of three steps:
+1) Filtering
+2) Normalization
+3) Part-Of-Speech tagging & lemmatization
+4) Sentiment polarity (SentiWordNet)
+5) Linguistic rules
 
 <img src="screen/sentiment.png?raw=true" width="150"/>
 
