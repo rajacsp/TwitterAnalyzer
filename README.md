@@ -55,4 +55,19 @@ coOccurrencesAnalysis(){
 
 ## Prediction
 
+#### Temporal series of candidate mentions
+
+<img src="screen/temporal.png?raw=true" width="600"/>
+
+#### Sentiment trend
+
+<img src="screen/trend.png?raw=true" width="600"/>
+
+#### Preferences
+
+<img src="screen/preferences.png?raw=true" width="300"/>
+
+
 # Configuration
+
+# Interface
