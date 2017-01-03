@@ -24,7 +24,9 @@ Users are classified into supporters, opponents and neutral according to the sen
 ## Co-Occurrence Analysis
 This task determines the most frequently co-occurring words using the Jaccard similarity coefficient. The analysis is performed using Lucene.
 
-<img src="screen/cooccurrence.png?raw=true" width="150"/>
+<img src="screen/cooccurrence1.png?raw=true" width="150"/>
+<img src="screen/cooccurrence2.png?raw=true" width="150"/>
+<img src="screen/cooccurrence3.png?raw=true" width="150"/>
 
 ## Web Scraping
 
