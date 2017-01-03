@@ -65,7 +65,7 @@ coOccurrencesAnalysis(){
 
 #### Preferences
 
-<img src="screen/preferences.png?raw=true" width="300"/>
+<img src="screen/preferences.png?raw=true" width="150"/>
 
 
 # Configuration
