@@ -82,6 +82,11 @@ Various techniques are used to prevent IP address blocking:
 
 
 # Configuration
+#### twitter_crawlers.xml
+
+#### twitteranalyzer.properties
+
+### 
 
 # Interface
 <img src="screen/interface.png" width="800"/>
