@@ -31,7 +31,7 @@ This task determines the most frequently co-occurring words using the Jaccard si
 
 <img src="screen/coccurrence2.png?raw=true" width="200"/>
 
- The analysis is performed using Lucene:
+The analysis is performed using Lucene:
 ```java
 coOccurrencesAnalysis(){
   for(term1: Index.highDocFreqTerms("tweet",5000)){
@@ -55,7 +55,7 @@ coOccurrencesAnalysis(){
 
 ## Prediction
 
-#### Temporal series of candidate mentions
+#### Temporal series of mentions
 
 <img src="screen/temporal.png?raw=true" width="800"/>
 
@@ -65,7 +65,7 @@ coOccurrencesAnalysis(){
 
 #### Preferences
 
-<img src="screen/preferences.png?raw=true" width="200"/>
+<img src="screen/preferences.png?raw=true" width="400"/>
 
 
 # Configuration
