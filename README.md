@@ -55,6 +55,7 @@ coOccurrencesAnalysis(){
 <img src="screen/coccurrence1.png?raw=true" width="200"/>
 <img src="screen/coccurrence2.png?raw=true" width="200"/>
 <img src="screen/coccurrence3.png?raw=true" width="200"/>
+<img src="screen/coccurrence4.png?raw=true" width="200"/>
 
 ## Web Scraping
 
