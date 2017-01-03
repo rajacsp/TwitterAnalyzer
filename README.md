@@ -19,15 +19,15 @@ In this task users are partitioned according to the mentions and some measures a
 ## Sentiment Analysis
 Users are classified into supporters, opponents and neutral according to the sentiment expressed in their tweets. The analysis consists of three steps:
 
-1) Filtering
+1. Filtering
 
-2) Normalization
+2. Normalization
 
-3) Part-Of-Speech tagging & lemmatization
+3. Part-Of-Speech tagging & lemmatization
 
-4) Sentiment polarity (SentiWordNet)
+4. Sentiment polarity (SentiWordNet)
 
-5) Linguistic rules
+5. Linguistic rules
 
 <img src="screen/sentiment.png?raw=true" width="200"/>
 
@@ -59,7 +59,10 @@ coOccurrencesAnalysis(){
 
 
 ## Web Scraping
-
+This task performs Google News scraping to collect a dataset of news. Various techniques are used to prevent IP address blocking:
+* Scrape slowly
+* Scrape randomly
+* User-agent spoofing
 
 
 ## Prediction
@@ -74,7 +77,7 @@ coOccurrencesAnalysis(){
 
 #### Preferences
 
-<img src="screen/preferences.png?raw=true" width="200"/>
+<img src="screen/preferences.png?raw=true" width="400"/>
 
 
 # Configuration
