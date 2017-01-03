@@ -77,7 +77,7 @@ This task performs Google News scraping to collect a dataset of news. Various te
 
 #### Preferences
 
-<img src="screen/preferences.png?raw=true" width="400"/>
+<img src="screen/preferences.png?raw=true" width="300"/>
 
 
 # Configuration
