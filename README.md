@@ -29,6 +29,7 @@ Users are classified into supporters, opponents and neutral according to the sen
 
 5. Linguistic rules
 
+
 <img src="screen/sentiment.png?raw=true" width="200"/>
 
 ## Co-Occurrence Analysis
@@ -59,7 +60,8 @@ coOccurrencesAnalysis(){
 
 
 ## Web Scraping
-This task performs Google News scraping to collect a dataset of news. Various techniques are used to prevent IP address blocking:
+This task performs Google News scraping to collect a dataset of news. 
+Various techniques are used to prevent IP address blocking:
 * Scrape slowly
 * Scrape randomly
 * User-agent spoofing
@@ -77,7 +79,7 @@ This task performs Google News scraping to collect a dataset of news. Various te
 
 #### Preferences
 
-<img src="screen/preferences.png?raw=true" width="300"/>
+<img src="screen/preferences.png?raw=true" width="200"/>
 
 
 # Configuration
