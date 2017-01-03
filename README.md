@@ -18,6 +18,7 @@ In this task users are partitioned according to the mentions and some measures a
 
 ## Sentiment Analysis
 Users are classified into supporters, opponents and neutral according to the sentiment expressed in their tweets. The analysis consists of three steps:
+
 1) Filtering
 
 2) Normalization
@@ -31,11 +32,7 @@ Users are classified into supporters, opponents and neutral according to the sen
 <img src="screen/sentiment.png?raw=true" width="200"/>
 
 ## Co-Occurrence Analysis
-This task determines the most frequently co-occurring words using the Jaccard similarity coefficient.
-
-<img src="screen/coccurrence2.png?raw=true" width="200"/>
-
-The analysis is performed using Lucene:
+This task determines the most frequently co-occurring words using the Jaccard similarity coefficient. The analysis is performed using Lucene:
 ```java
 coOccurrencesAnalysis(){
   for(term1: Index.highDocFreqTerms("tweet",5000)){
@@ -54,6 +51,8 @@ coOccurrencesAnalysis(){
   return coOccs
 }
 ```
+
+<img src="screen/coccurrence2.png?raw=true" width="200"/>
 
 ## Web Scraping
 
