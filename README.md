@@ -17,11 +17,14 @@ In this task users are partitioned according to the mentions and some measures a
 <img src="screen/partitioning.png?raw=true" width="600"/>
 
 ## Sentiment Analysis
-Users are classified into supporters, opponents and neutral. 
+Users are classified into supporters, opponents and neutral according to the sentiment expressed in their tweets.
 
-<img src="screen/sentiment.png?raw=true" width="150"/>
+<img src="screen/sentiment.png?raw=true" width="200"/>
 
 ## Co-Occurrence Analysis
+This task analyzes the most frequently co-occurring words using the Jaccard similarity coefficient.
+
+<img src="screen/cooccurrence.png?raw=true" width="200"/>
 
 ## Web Scraping
 
